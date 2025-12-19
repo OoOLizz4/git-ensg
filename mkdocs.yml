@@ -3,9 +3,9 @@ site_url: https://iamvdo.github.io/git-ensg/
 repo_url: https://github.com/iamvdo/git-ensg/
 edit_uri: 'blob/main/docs/'
 nav:
-    - ★Nolvides: nolvides_mandomboy.md
     - Git ENSG: index.md
-    - Lizza: verrier_lisa.md
+    - Nolvides: nolvides_mandomboy.md
+    - Lizza ★: verrier_lisa.md
     - Vincent: vincent-deoliveira.md
     - Victor: nom_prenom.md
     - Romain : bernasconi_romain.md
