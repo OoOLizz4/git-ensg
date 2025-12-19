@@ -3,7 +3,9 @@
 **Le roller c'est :**
 
 **1.** cool
+
 **2.** stylé
+
 **3.** fun
 
 ![roller](images/trotro.png)
