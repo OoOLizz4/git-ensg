@@ -10,3 +10,5 @@
 
 ![roller](images/trotro.png)
 *Trotro est fan de roller*
+
+ ·٠•●♥ Ƹ̵̡Ӝ̵̨̄Ʒ ♥●•٠·˙ bip boup bip ˙·٠•●♥ Ƹ̵̡Ӝ̵̨̄Ʒ ♥●•٠·˙
