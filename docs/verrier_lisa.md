@@ -2,9 +2,9 @@
 
 **Le roller c'est :**
 
-1. cool
-2. stylé
-3. fun
+**1.** cool
+**2.** stylé
+**3.** fun
 
 ![roller](images/trotro.png)
 *trotro est fan de de roller*
